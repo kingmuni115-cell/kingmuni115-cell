@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Muneendra
 
-<!--
-**kingmuni115-cell/kingmuni115-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Full Stack Developer | B.Com Student
 
-Here are some ideas to get you started:
+I'm a passionate and motivated developer who enjoys learning **Python, HTML, CSS, JavaScript, and web development**. I like building simple, responsive, and user-friendly websites while continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 B.Com 3rd Year – 5th Semester
+- 💻 Currently learning **Python Full Stack Development**
+- 🌐 Interested in **Web Development**
+- 🐍 Learning **Python**
+- 🎨 Working with **HTML & CSS**
+- ⚡ Learning **JavaScript**
+- 📚 Always interested in learning new technologies
+- 🚀 Goal: Become a skilled **Full Stack Developer**
+
+### 🛠️ Skills
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+
+**Backend**
+- Python
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+### 📌 Projects
+- Responsive Login Page
+- OTP Login Website
+- HTML & CSS Practice Projects
+- JavaScript Practice Projects
+- Python Projects
+
+### 📫 Connect With Me
+
+I'm always interested in learning, building projects, and exploring new technologies.
+
+**Thanks for visiting my GitHub profile! ⭐**
