@@ -5,7 +5,7 @@
 I'm a passionate and motivated developer who enjoys learning **Python, HTML, CSS, JavaScript, and web development**. I like building simple, responsive, and user-friendly websites while continuously improving my programming skills.
 
 ### 🚀 About Me
-- 🎓 B.Com 3rd Year – 5th Semester
+- 🎓 B.Com 3rd Year – 6th Semester
 - 💻 Currently learning **Python Full Stack Development**
 - 🌐 Interested in **Web Development**
 - 🐍 Learning **Python**
